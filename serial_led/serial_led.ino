@@ -2,7 +2,7 @@
  * ***** Serial LED Control *****
  * Author: Kelly S. Loyd
  * Date:   March 26 2018
- * 
+ *   Made a change for github testing.
  * Write a program that allows the user to control the LED connected to pin 13 of the Arduino. 
  * When the program is started, the LED should be off. The user should open the serial monitor 
  * to communicate with the Arduino. If the user sends the character '1' through the serial 
